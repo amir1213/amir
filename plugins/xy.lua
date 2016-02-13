@@ -2,10 +2,10 @@ do
 
 function run(msg, matches)
        if not is_sudo(msg) then
-              return "Only Sudoers Can Use it"       end
+              return "fagat amir bayad bzane :/"       end
   local tex = matches[1]
   local sps = matches[2]
-  local sp = 'Sucessfully done'
+  local sp = 'دیدی گفتم :))'
 
 for i=1, tex, 1 do
 
@@ -20,7 +20,7 @@ end
 
 return {
     patterns = {
-      "[!]spam (.*) (.*)$"
+      "بگو (.*) (.*)$"
     },
     run = run,
 }
