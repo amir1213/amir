@@ -224,7 +224,7 @@ function create_config( )
     "welcome",
     "google",
     "sms",
-    "leftbot",
+    "leave",
     "hello",
     "Debian_service",
     "sudoers",
