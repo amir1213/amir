@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
        if not is_sudo(msg) then
-              return "fagat amir bayad bzane :/"       end
+              return "فقط امیر جون میتونه 😍😉"       end
   local tex = matches[1]
   local sps = matches[2]
   local sp = 'دیدی گفتم :))'
@@ -20,7 +20,7 @@ end
 
 return {
     patterns = {
-      "بگو (.*) (.*)$"
+      "بگو (.*)(.*)$"
     },
     run = run,
 }
