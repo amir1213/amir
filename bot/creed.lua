@@ -254,7 +254,7 @@ function create_config( )
     "echo",
     "fohsh"
     },
-    sudo_users = {119650184,156823206,80182995},--Sudo users
+    sudo_users = {119650184,156823206},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[shield bot 3.0
@@ -262,7 +262,7 @@ function create_config( )
      Hello my Good friends 
      
    〰〰〰〰〰〰〰〰
-   ߔࠀ   founder : @hafez1116hafez
+  ███████████████████████
    ߔࠀ   sudo : @amirho3ein911
    ߔࠀ   manager : @RedCross_king
    〰〰〰〰〰〰〰〰
